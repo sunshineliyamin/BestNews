@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>EF435512-3436-46E8-AD94-3B76BF78EC2D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>222</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C2098A67-6569-4AF1-B75F-11234C7EF229</key>
+		<string>https://github.com/sunshineliyamin/BestNews.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>222/222/222.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C2098A67-6569-4AF1-B75F-11234C7EF229</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/sunshineliyamin/BestNews.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C2098A67-6569-4AF1-B75F-11234C7EF229</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C2098A67-6569-4AF1-B75F-11234C7EF229</string>
+			<key>IDESourceControlWCCName</key>
+			<string>BestNews</string>
+		</dict>
+	</array>
+</dict>
+</plist>
